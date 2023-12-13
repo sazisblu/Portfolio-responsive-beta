@@ -6,6 +6,7 @@
     font-size: 10px;
     box-sizing: border-box;
     color: white;
+    scroll-behavior: smooth;
 }
 
 :root
